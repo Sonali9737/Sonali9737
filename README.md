@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonali9737
+- 👋 Hi, I’m Sonali Singh
 - 👀 I’m interested in python coding
 - 🌱 I’m currently doing btech cse from ips academy indore
 - 💞️ I’m looking to collaborate on some coding skills
